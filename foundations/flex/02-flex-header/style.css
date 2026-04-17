@@ -1,11 +1,13 @@
+* {
+  padding: 0px;
+}
+
 .header  {
   font-family: monospace;
   background: papayawhip;
   display: flex;
   justify-content: space-between ;
   align-items: center;
-  
-  
   
 
 }
@@ -26,7 +28,7 @@ ul {
   list-style-type: none;
   display: flex;
   /* justify-content: space-between;  */
-  padding: 8px;
+  /* padding: 8px; */
    
   gap: 8px;
    
